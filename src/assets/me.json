@@ -1,13 +1,16 @@
 {
-    "nombre": "Jose",
-    "apellidos": "Castillo",
-    "profesion": "Informático",
-    "descripcion": "Apasionado por la tecnología",
+    "nombre": "Jose Antonio Castillo",
+    "profesion": "Estudiante de CFGS DAW",
+    "bio": "Apasionado por la tecnología",
     "experiencia":[
-        {"nombreEmpresa": "PC-Express", "estancia": "24/03/2024 - 19/06/2024"},
-        {"nombreEmpresa": "SAP", "estancia": "12/10/2021 - 12/12/2024"}
+        {
+        "nombre": "PC-Express", 
+        "descripción": "Tienda de informática en el centro de Granada", 
+        "fecha": "24/03/2024 - 19/06/2024"
+        }
 
-    ]
+    ],
+    "habilidades": ["Trabajo en grupo","resolución de problemas"]
     
     
 }
