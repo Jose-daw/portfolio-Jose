@@ -1,5 +1,5 @@
 {
-    "nombre": "Jose Antonio Castillo",
+    "nombre": "José Antonio Castillo",
     "profesion": "Estudiante de CFGS DAW",
     "bio": "Apasionado por la tecnología",
     "experiencia":[
@@ -10,7 +10,10 @@
         }
 
     ],
-    "habilidades": ["Trabajo en grupo","resolución de problemas"]
+    "habilidades": [
+        "Trabajo en grupo",
+        "Resolución de problemas"
+    ]
     
     
 }
