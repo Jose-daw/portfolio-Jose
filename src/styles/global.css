@@ -71,6 +71,13 @@ section {
     width: fit-content;
     margin: 0px;
   }
+  .enlace-proyecto{
+    text-decoration: none;
+    color: black;
+  }
+  .enlace-proyecto:hover{
+    
+  }
   
   .envoltura-habilidades{
     display: flex;
