@@ -18,7 +18,6 @@ Este proyecto consistió en el diseño y desarrollo de la página web [sangreyho
 - **Wordpress**
 - **Elementor** (para el diseño visual)
 - **Yoast SEO** (para la optimización en buscadores)
-- **WooCommerce** (si aplica, para tienda en línea)
 
 ## Resultado Final
 El sitio web proporciona una experiencia intuitiva y moderna para los visitantes, permitiendo una navegación fluida y eficiente. Con una estructura optimizada, **sangreyhonorconstruccion.es** destaca por su diseño atractivo y funcionalidad avanzada. 
