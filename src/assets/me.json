@@ -10,6 +10,24 @@
         }
 
     ],
+    "estudios": [
+        {
+            "Estudios": "CFGS Desarrollo de aplicaciones web",
+            "Centro": "I.E.S. Politécnico Hermenegildo Lanz",
+            "Duración":"15 Sept 2024-Presente"
+        },
+        {
+            "Estudios": "CFGM Sistemas microinformáticos y redes",
+            "Centro": "I.E.S. Padre Manjón",
+            "Duración":"15 Sept 2022-20 Jun 2024"
+        },
+        {
+        "Estudios": "E.S.O.",
+        "Centro": "I.E.S. Padre Manjón",
+        "Duración": "15 Sept 2018-22 Jun 2022"
+        }
+
+    ],
     "habilidades": [
         "Trabajo en grupo",
         "Resolución de problemas"
