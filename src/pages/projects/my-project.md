@@ -1,4 +1,8 @@
+---
 layout: "../../layouts/Layout.astro"
+title: "Creación de página web mediante Wordpress"
+description: "Creación de una página web de Wordpress Elementor en mis prácticas de grado medio"
+url: "my-project"
 ---
 
 # Mi Proyecto: Creación de Página Web en Wordpress
